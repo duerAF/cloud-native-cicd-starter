@@ -4,7 +4,7 @@
 docker:
   # server: docker-registry.131.153.227.137.sslip.io
   server: docker.io
-  prefix: krumware/
+  prefix: dueraf/
   secretName: docker-push-user
 
 github:
